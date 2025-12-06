@@ -1,1 +1,2 @@
-# pas-kerja-ga-disuruh-buat-lirik-lagu-pake-python-kok
+<div align="center"><h3>GAUSAH TANYA TANYA NGANTUK</h3><img src="https://i.imgur.com/e9AqkoL.gif" width="300"/></div>
+
