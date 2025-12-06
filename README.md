@@ -1,0 +1,1 @@
+# pas-kerja-ga-disuruh-buat-lirik-lagu-pake-python-kok
